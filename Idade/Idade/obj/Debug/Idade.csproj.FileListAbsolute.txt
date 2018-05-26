@@ -1,0 +1,10 @@
+c:\users\marco\source\repos\Idade\Idade\bin\Debug\Idade.exe.config
+c:\users\marco\source\repos\Idade\Idade\bin\Debug\Idade.exe
+c:\users\marco\source\repos\Idade\Idade\bin\Debug\Idade.pdb
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.csprojResolveAssemblyReference.cache
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.Form1.resources
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.Properties.Resources.resources
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.csproj.GenerateResource.cache
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.csproj.CoreCompileInputs.cache
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.exe
+c:\users\marco\source\repos\Idade\Idade\obj\Debug\Idade.pdb
