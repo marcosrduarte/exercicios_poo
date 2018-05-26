@@ -1,0 +1,10 @@
+c:\users\marco\source\repos\Multa\Multa\bin\Debug\Multa.exe.config
+c:\users\marco\source\repos\Multa\Multa\bin\Debug\Multa.exe
+c:\users\marco\source\repos\Multa\Multa\bin\Debug\Multa.pdb
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.csprojResolveAssemblyReference.cache
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.Form1.resources
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.Properties.Resources.resources
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.csproj.GenerateResource.cache
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.csproj.CoreCompileInputs.cache
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.exe
+c:\users\marco\source\repos\Multa\Multa\obj\Debug\Multa.pdb
