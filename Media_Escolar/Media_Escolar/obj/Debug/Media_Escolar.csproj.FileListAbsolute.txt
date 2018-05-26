@@ -1,0 +1,10 @@
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.exe.config
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.exe
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\bin\Debug\Media_Escolar.pdb
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.csprojResolveAssemblyReference.cache
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.frmPrincipal.resources
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.Properties.Resources.resources
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.exe
+C:\Users\marco\source\repos\Media_Escolar\Media_Escolar\obj\Debug\Media_Escolar.pdb
